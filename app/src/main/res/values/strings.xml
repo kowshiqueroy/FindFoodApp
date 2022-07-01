@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Find Food App</string>
+    <string name="resultText">No result!</string>
+    <string name="buttonText">Find Food</string>
 </resources>
